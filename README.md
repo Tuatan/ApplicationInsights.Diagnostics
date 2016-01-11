@@ -1,3 +1,4 @@
+[![Nuget](https://img.shields.io/badge/nuget-v1.0.50140-green.svg?style=plastic)](http://nuget.org/packages/tx.core)
 # ApplicationInsights.Diagnostics
 
 ApplicationInsights.Diagnostics allows yu to get a list of all the Application Insights verbose traces. 
