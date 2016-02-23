@@ -1,6 +1,8 @@
 [![Nuget](https://img.shields.io/badge/nuget-v1.0.50140-green.svg?style=plastic)](http://nuget.org/packages/tx.core)
 # ApplicationInsights.Diagnostics
 
+[![Join the chat at https://gitter.im/Tuatan/ApplicationInsights.Diagnostics](https://badges.gitter.im/Tuatan/ApplicationInsights.Diagnostics.svg)](https://gitter.im/Tuatan/ApplicationInsights.Diagnostics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ApplicationInsights.Diagnostics allows yu to get a list of all the Application Insights verbose traces. 
 
 In LINQPad you would do the following:
